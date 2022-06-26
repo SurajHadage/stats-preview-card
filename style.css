@@ -48,7 +48,7 @@ body {
 .item-1 .content > .title {
     color: var(--White-main);
     font-family: var(--Lexend-Deca);
-    margin-top: 4rem;
+    margin-top: 4.5rem;
 }
 .item-1 .content > .title > .strong {
     color: var(--Soft-violet-accent);
@@ -61,7 +61,7 @@ body {
     color: var(--Slightly-transparent-white-main-paragraph);
 }
 .item-1 .content > .stats-container {
-    margin-top: 2rem;
+    margin-top: 3rem;
     margin-right: 0;
     margin-left: 0rem;
     margin-bottom: 0;
