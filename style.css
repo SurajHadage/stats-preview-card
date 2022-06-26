@@ -26,8 +26,8 @@ body {
     background-color: var(--Very-dark-blue);
 }
 .container {
-    width: 900px;
-    height: 400px;
+    width: 1100px;
+    height: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,6 @@ body {
     background-color: var(--Dark-desaturated);
 }
 .item-1 .content {
-    margin-right: 2.5rem;
     margin-left: 2.5rem;
     margin-top: 3rem;
     text-align: left;
@@ -48,7 +47,7 @@ body {
 .item-1 .content > .title {
     color: var(--White-main);
     font-family: var(--Lexend-Deca);
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 .item-1 .content > .title > .strong {
     color: var(--Soft-violet-accent);
@@ -57,7 +56,7 @@ body {
     font-family: var(--Inter);
     font-size: 15px;
     font-weight: 300;
-    margin-top: 2rem;
+    margin-top: 4rem;
     color: var(--Slightly-transparent-white-main-paragraph);
 }
 .item-1 .content > .stats-container {
