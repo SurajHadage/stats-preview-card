@@ -112,6 +112,9 @@ body {
     background-color: var(--Soft-violet-accent);
     
 }
+footer {
+    display: none;
+}
 @media (max-width: 800px) {
     .container {
         flex-direction: column-reverse;
